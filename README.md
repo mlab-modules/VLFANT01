@@ -28,15 +28,15 @@ This usage case uses only one RJ45 connector populated on board. This connector 
 
 ![VLFANT01B](doc/img/VLFANT01B_top_big.jpg)
 
-### Antenn connection module
+### Antenna connection module
 
 In that situation all three RJ45 connectors are populated on the board. The two are used for connection the antenna loop. The last is used for feeding the signal to the receiver unit.
 
 
 ## VLF antenna construction
 
-The antenna is made from an aluminium tube ring. The prameters of the aluminium tube are not critical. But it is practical to use an tube which allows direct insertion of UTP pigtail including the connectors.
-The circumference of the tube ring should match the lengh of UTP cable used. Therefore the 1.5m circle diameter aproximately match to 5m UTP pigtail.   
+The antenna is made from an aluminium tube ring. The parameters of the aluminium tube are not critical. But it is practical to use an tube which allows direct insertion of UTP pigtail including the connectors.
+The circumference of the tube ring should match the lengh of UTP cable used. Therefore the example 1.5m circle diameter aproximately match to 5m lenght UTP cable pigtail.
 
 ![VLFANT01B](doc/img/Antenna_construction/antenna_premounted.jpg)
 
