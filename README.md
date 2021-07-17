@@ -1,27 +1,47 @@
-<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
-<!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:2019-09-12 10:47:42.790074: ---> 
-<!--- Author:: ---> 
-<!--- AuthorEmail:: ---> 
-<!--- Tags:: ---> 
-<!--- Ust:: ---> 
-<!--- Label --->
-<!--- ELabel ---> 
 <!--- Name:VLFANT01B: --->
 # VLFANT01B
 <!--- LongName --->
-## 
-<!--- ELongName ---> 
+## VLF antenna interconnection module
+<!--- ELongName --->
 
 <!--- Lead --->
 
-<!--- ELead ---> 
+<!--- ELead --->
 
-![VLFANT01B](doc/img/VLFANT01B_top_big.jpg) 
+The module is usually used to make a magnetic loop antenna from the UTP pigtail.
 
+![VLFANT01B](doc/img/VLF_antenna.jpg)
+
+![VLF antenna mounted on Valasske Mezirici observatory](doc/img/VLF_antenna_valmez.jpg)
 
 <!--- Description --->
 <!--- EDescription --->
 <!--- Content --->
+
+## Hardware
+
+The module could be used by multiple ways
+
+### Antenna feed end on MLAB board
+
+This usage case uses only one RJ45 connector populated on board. This connector is used for connection the UTP feed from the antenna.
+
+![VLFANT01B](doc/img/VLFANT01B_top_big.jpg)
+
+### Antenn connection module
+
+In that situation all three RJ45 connectors are populated on the board. The two are used for connection the antenna loop. The last is used for feeding the signal to the receiver unit.
+
+
+## VLF antenna construction
+
+The antenna is made from an aluminium tube ring. The prameters of the aluminium tube are not critical. But it is practical to use an tube which allows direct insertion of UTP pigtail including the connectors.
+The circumference of the tube ring should match the lengh of UTP cable used. Therefore the 1.5m circle diameter aproximately match to 5m UTP pigtail.   
+
+![VLFANT01B](doc/img/Antenna_construction/antenna_premounted.jpg)
+
+![VLFANT01B](doc/img/Antenna_construction/VLFANT01B_installed.jpg)
+
+
 <!--- EContent --->
 <sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-09-12)</sup></sub>
