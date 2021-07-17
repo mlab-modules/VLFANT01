@@ -8,7 +8,7 @@
 
 <!--- ELead --->
 
-The module is usually used to make a magnetic loop antenna from the UTP pigtail.
+The module is usually used to make a magnetic loop antenna from the UTP pigtail. It is basic antenna for [VLF ionospheric monitoring station](https://github.com/Ionozor/VLFMON01).
 
 ![VLFANT01B](doc/img/VLF_antenna.jpg)
 
