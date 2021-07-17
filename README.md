@@ -36,7 +36,7 @@ In that situation all three RJ45 connectors are populated on the board. The two 
 ## VLF antenna construction
 
 The antenna is made from an aluminium tube ring. The parameters of the aluminium tube are not critical. But it is practical to use an tube which allows direct insertion of UTP pigtail including the connectors.
-The circumference of the tube ring should match the lengh of UTP cable used. Therefore the example 1.5m circle diameter aproximately match to 5m lenght UTP cable pigtail.
+The circumference of the tube ring should match the lengh of UTP cable used. Therefore the example 1.5m circle diameter aproximately match to 5m lenght UTP cable pigtail. In the reality we used the STP (Shilded variant of UTP cable), to minimize possibility of differences between antennas by different shaping of the cable in the tube, which could alter overall capacity, resulting in different resonant frequency. 
 
 ![VLFANT01B](doc/img/Antenna_construction/antenna_premounted.jpg)
 
