@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/VLFANT01B.kicad_sch</source>
+    <date>Wed Apr  6 12:56:02 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>VLFANT01B</title>
+        <company>MLAB</company>
+        <rev/>
+        <date>2022-01-26</date>
+        <source>VLFANT01B.kicad_sch</source>
+        <comment number="1" value="VLF loop antena interface"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>RJ45_RJHSE-5384</value>
+      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
+      <libsource lib="VLFANT01B-rescue" part="RJ45_RJHSE-5384" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058170ec6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RJ45_RJHSE-5384</value>
+      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
+      <libsource lib="VLFANT01B-rescue" part="RJ45_RJHSE-5384" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058171334</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RJ45_RJHSE-5384</value>
+      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
+      <libsource lib="VLFANT01B-rescue" part="RJ45_RJHSE-5384" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058171450</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>SMA</value>
+      <footprint>Mlab_CON:SMA6251A13G50</footprint>
+      <libsource lib="VLFANT01B-rescue" part="SMA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d68c46</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>JUMP_3X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="VLFANT01B-rescue" part="JUMP_3X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d697ce</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VLFANT01B-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d299a2</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VLFANT01B-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a387</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VLFANT01B-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a075</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VLFANT01B-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VLFANT01B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d2a395</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="VLFANT01B-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VLFANT01B-rescue" part="JUMP_3X2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="6" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VLFANT01B-rescue" part="RJ45_RJHSE-5384">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ45_RJHSE-5384</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="D2_K" type="unspecified"/>
+        <pin num="10" name="D2_A" type="unspecified"/>
+        <pin num="11" name="D1_K" type="unspecified"/>
+        <pin num="12" name="D1_A" type="unspecified"/>
+        <pin num="13" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VLFANT01B-rescue" part="SMA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="/OUT1">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J3" pin="4" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="unspecified"/>
+      <node ref="J9" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="/OUT2">
+      <node ref="J2" pin="8" pintype="passive"/>
+      <node ref="J3" pin="5" pintype="passive"/>
+      <node ref="J7" pin="2" pintype="unspecified"/>
+      <node ref="J9" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J2" pin="13" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="13" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="6" pintype="passive"/>
+      <node ref="J9" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J1-Pad5)">
+      <node ref="J1" pin="5" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J1-Pad7)">
+      <node ref="J1" pin="7" pintype="passive"/>
+      <node ref="J2" pin="6" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J1-Pad8)">
+      <node ref="J1" pin="8" pintype="passive"/>
+      <node ref="J2" pin="7" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="D2_K" pintype="unspecified"/>
+    </net>
+    <net code="12" name="unconnected-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+    </net>
+    <net code="13" name="unconnected-(J1-Pad11)">
+      <node ref="J1" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+    </net>
+    <net code="14" name="unconnected-(J1-Pad12)">
+      <node ref="J1" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+    </net>
+    <net code="15" name="unconnected-(J1-Pad13)">
+      <node ref="J1" pin="13" pinfunction="SHIELD" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(J2-Pad9)">
+      <node ref="J2" pin="9" pinfunction="D2_K" pintype="unspecified"/>
+    </net>
+    <net code="17" name="unconnected-(J2-Pad10)">
+      <node ref="J2" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+    </net>
+    <net code="18" name="unconnected-(J2-Pad11)">
+      <node ref="J2" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+    </net>
+    <net code="19" name="unconnected-(J2-Pad12)">
+      <node ref="J2" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+    </net>
+    <net code="20" name="unconnected-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(J3-Pad3)">
+      <node ref="J3" pin="3" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(J3-Pad7)">
+      <node ref="J3" pin="7" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(J3-Pad8)">
+      <node ref="J3" pin="8" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(J3-Pad9)">
+      <node ref="J3" pin="9" pinfunction="D2_K" pintype="unspecified"/>
+    </net>
+    <net code="27" name="unconnected-(J3-Pad10)">
+      <node ref="J3" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+    </net>
+    <net code="28" name="unconnected-(J3-Pad11)">
+      <node ref="J3" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+    </net>
+    <net code="29" name="unconnected-(J3-Pad12)">
+      <node ref="J3" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+    </net>
+    <net code="30" name="unconnected-(M1-Pad1)">
+      <node ref="M1" pin="1" pintype="input"/>
+    </net>
+    <net code="31" name="unconnected-(M2-Pad1)">
+      <node ref="M2" pin="1" pintype="input"/>
+    </net>
+    <net code="32" name="unconnected-(M3-Pad1)">
+      <node ref="M3" pin="1" pintype="input"/>
+    </net>
+    <net code="33" name="unconnected-(M4-Pad1)">
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+  </nets>
+</export>
