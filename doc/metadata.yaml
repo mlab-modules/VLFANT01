@@ -1,0 +1,36 @@
+description: VLF antenna connection module
+github_branch: VLFANT01B
+github_branches:
+- VLFANT01A
+- VLFANT01B
+- punchdown
+github_repo: VLFANT01
+github_url: https://github.com/mlab-modules/VLFANT01
+homepage: false
+image: doc/img/VLFANT01B_top_big.jpg
+images:
+- doc/img/VLFANT01B_top_big.jpg
+- doc/img/VLF_antenna_valmez.jpg
+- doc/img/VLF_antenna.jpg
+- doc/img/Antenna_construction/antenna_circle.jpg
+- doc/img/Antenna_construction/mounting_strip2.jpg
+- doc/img/Antenna_construction/box_cable_ends.jpg
+- doc/img/Antenna_construction/box_bushing_preinstall.jpg
+- doc/img/Antenna_construction/UTP_insertion.jpg
+- doc/img/Antenna_construction/box_bushing_intalled.jpg
+- doc/img/Antenna_construction/cable_bushing.jpg
+- doc/img/Antenna_construction/VLFANT01B_installed.jpg
+- doc/img/Antenna_construction/antenna_premounted.jpg
+- doc/img/Antenna_construction/mounting_strip1.jpg
+- doc/img/Antenna_construction/UTP_cable_ends.jpg
+- doc/img/Antenna_construction/mounting_strip3.jpg
+- doc/img/Antenna_construction/box_material.jpg
+- doc/img/VLFANT01B_QRcode.png
+- doc/gen/img/VLFANT01B-bottom.png
+- doc/gen/img/VLFANT01B-top.png
+- doc/gen/VLFANT01B-schematic.svg
+issues: 0
+mark: 50
+mod_scheme: doc/gen/VLFANT01B-schematic.pdf
+tags: []
+title: VLFANT01
