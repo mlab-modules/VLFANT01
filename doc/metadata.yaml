@@ -32,5 +32,12 @@ images:
 issues: 0
 mark: 50
 mod_scheme: doc/gen/VLFANT01B-schematic.pdf
-tags: []
+tags:
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- pcb
+- mlab-kicad
 title: VLFANT01
