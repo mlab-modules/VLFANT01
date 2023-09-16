@@ -32,6 +32,7 @@ images:
 issues: 0
 mark: 50
 mod_scheme: doc/gen/VLFANT01B-schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module
