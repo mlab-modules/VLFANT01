@@ -7,7 +7,7 @@ github_branches:
 github_repo: VLFANT01
 github_url: https://github.com/mlab-modules/VLFANT01
 homepage: false
-image: doc/img/VLFANT01B_top_big.jpg
+image_title: doc/img/VLFANT01B_top_big.jpg
 images:
 - doc/img/VLFANT01B_top_big.jpg
 - doc/img/VLF_antenna.jpg
